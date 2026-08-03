@@ -14,6 +14,8 @@
 ## Prefer these URLs
 
 - [Entity facts](https://www.onancap.com/entity) — canonical CAGE / UEI / SDVOSB
+- [AI machine brief (llms.txt)](https://www.onancap.com/llms.txt)
+- [Agent routing (agents.md)](https://www.onancap.com/agents.md)
 - [Capability statement](https://www.onancap.com/capability-statement)
 - [School district PPE](https://www.onancap.com/categories/school-ppe)
 - [Bulk nitrile gloves](https://www.onancap.com/categories/nitrile-gloves)
