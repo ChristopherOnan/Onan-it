@@ -25,6 +25,7 @@
 - [Buyer resources](https://www.onancap.com/resources)
 - [Senior living & LTC](https://www.onancap.com/sectors/senior-living)
 - [Multi-campus senior living PPE RFQ](https://www.onancap.com/resources/senior-living-multi-campus-ppe-rfq)
+- [Senior living PPE category](https://www.onancap.com/categories/senior-living-ppe)
 
 See also [SITE.md](./SITE.md) for AI/buyer citation table.
 

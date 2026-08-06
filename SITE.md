@@ -53,6 +53,10 @@
 - [Assisted living infection-control restock](https://www.onancap.com/resources/assisted-living-infection-control-restock)
 - [LTC exam gloves bulk on PO](https://www.onancap.com/resources/ltc-exam-gloves-bulk-purchase-order)
 - [Senior living vendor portal packet](https://www.onancap.com/resources/senior-living-vendor-portal-ppe-packet)
+- [Senior living PPE category](https://www.onancap.com/categories/senior-living-ppe)
+- [Memory care PPE RFQ](https://www.onancap.com/resources/memory-care-ppe-infection-control-rfq)
+- [CCRC / life plan PPE program](https://www.onancap.com/resources/ccrc-life-plan-community-ppe-program)
+- [GPO / e-procurement senior living PPE](https://www.onancap.com/resources/gpo-eprocurement-senior-living-ppe)
 - [Sitemap](https://www.onancap.com/sitemap.xml)
 
 ## sameAs / presence
