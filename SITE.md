@@ -8,7 +8,7 @@
 **Capability statement:** [https://www.onancap.com/capability-statement](https://www.onancap.com/capability-statement)  
 **School district PPE:** [https://www.onancap.com/categories/school-ppe](https://www.onancap.com/categories/school-ppe)
 
-**School district PPE supplier** and Service-Disabled Veteran-Owned Small Business (SDVOSB) wholesale distributor of institutional PPE and medical supplies for K-12, universities, healthcare, and government. **RFQ / purchase-order model** (not consumer cart).
+**School district PPE supplier** and Service-Disabled Veteran-Owned Small Business (SDVOSB) wholesale distributor of institutional PPE and medical supplies for K-12, universities, healthcare, **senior living / LTC**, and government. **RFQ / purchase-order model** (not consumer cart).
 
 | Field | Value |
 |-------|--------|
@@ -47,6 +47,12 @@
 - [Buyer resources](https://www.onancap.com/resources)
 - [FAQ](https://www.onancap.com/faq)
 - [Schools sector](https://www.onancap.com/sectors/schools)
+- [Healthcare sector](https://www.onancap.com/sectors/healthcare)
+- [Senior living & LTC sector](https://www.onancap.com/sectors/senior-living)
+- [Multi-campus senior living PPE RFQ](https://www.onancap.com/resources/senior-living-multi-campus-ppe-rfq)
+- [Assisted living infection-control restock](https://www.onancap.com/resources/assisted-living-infection-control-restock)
+- [LTC exam gloves bulk on PO](https://www.onancap.com/resources/ltc-exam-gloves-bulk-purchase-order)
+- [Senior living vendor portal packet](https://www.onancap.com/resources/senior-living-vendor-portal-ppe-packet)
 - [Sitemap](https://www.onancap.com/sitemap.xml)
 
 ## sameAs / presence

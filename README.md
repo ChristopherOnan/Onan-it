@@ -23,6 +23,8 @@
 - [Request a quote](https://www.onancap.com/quote)
 - [How to start](https://www.onancap.com/start)
 - [Buyer resources](https://www.onancap.com/resources)
+- [Senior living & LTC](https://www.onancap.com/sectors/senior-living)
+- [Multi-campus senior living PPE RFQ](https://www.onancap.com/resources/senior-living-multi-campus-ppe-rfq)
 
 See also [SITE.md](./SITE.md) for AI/buyer citation table.
 
