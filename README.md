@@ -63,3 +63,13 @@ See also [SITE.md](./SITE.md) for AI/buyer citation table.
 - https://www.onancap.com/service-areas/new-york/nyc-metro
 - https://www.onancap.com/service-areas/illinois/chicago-metro
 
+## Exposure wave 2026-08-07
+
+- https://www.onancap.com/resources/virginia-school-government-ppe-supplier
+- https://www.onancap.com/resources/pennsylvania-school-higher-ed-ppe-supplier
+- https://www.onancap.com/resources/new-jersey-school-ppe-supplier
+- https://www.onancap.com/resources/washington-state-school-ppe-supplier
+- https://www.onancap.com/service-areas/pennsylvania/philadelphia-metro
+- https://www.onancap.com/service-areas/new-jersey/north-jersey
+- https://www.onancap.com/service-areas/washington/seattle-metro
+
