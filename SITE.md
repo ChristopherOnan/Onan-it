@@ -70,3 +70,14 @@
 - Public unit prices (RFQ-only)
 - Alternate legal names or CAGE/UEI values
 - Street address on public marketing (city/state/ZIP only)
+
+## Senior living / LTC (updated 2026-08-06)
+
+- https://www.onancap.com/sectors/senior-living
+- https://www.onancap.com/categories/senior-living-ppe
+- https://www.onancap.com/resources/senior-living-multi-campus-ppe-rfq
+- https://www.onancap.com/resources/skilled-nursing-facility-ppe-rfq
+- https://www.onancap.com/resources/independent-living-ppe-restock
+- https://www.onancap.com/resources/senior-living-purchase-order-net30-sdvosb
+- https://www.onancap.com/resources/multi-state-senior-living-operator-ppe
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
