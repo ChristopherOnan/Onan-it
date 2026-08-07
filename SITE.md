@@ -81,3 +81,16 @@
 - https://www.onancap.com/resources/senior-living-purchase-order-net30-sdvosb
 - https://www.onancap.com/resources/multi-state-senior-living-operator-ppe
 - Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
+
+## Exposure wave 2026-08-06 evening (white-hat)
+
+- https://www.onancap.com/resources/texas-school-district-ppe-supplier
+- https://www.onancap.com/resources/tips-cooperative-contract-ppe-piggyback
+- https://www.onancap.com/resources/community-college-ppe-vendor-rfq
+- https://www.onancap.com/resources/veteran-owned-sdvosb-ppe-distributor-schools
+- https://www.onancap.com/service-areas/texas
+- https://www.onancap.com/service-areas/texas/houston-metro
+- https://www.onancap.com/service-areas/texas/dfw-metro
+- https://www.onancap.com/sectors/senior-living
+- https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
+
