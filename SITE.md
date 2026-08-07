@@ -94,3 +94,12 @@
 - https://www.onancap.com/sectors/senior-living
 - https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
 
+## Exposure wave 2 (2026-08-06)
+
+- https://www.onancap.com/resources/new-york-school-district-ppe-supplier
+- https://www.onancap.com/resources/illinois-chicago-school-ppe-supplier
+- https://www.onancap.com/resources/ohio-school-municipal-ppe-supplier
+- https://www.onancap.com/resources/ghx-healthcare-ppe-distributor-rfq
+- https://www.onancap.com/service-areas/new-york/nyc-metro
+- https://www.onancap.com/service-areas/illinois/chicago-metro
+
