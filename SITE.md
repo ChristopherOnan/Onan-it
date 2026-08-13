@@ -8,7 +8,7 @@
 **Capability statement:** [https://www.onancap.com/capability-statement](https://www.onancap.com/capability-statement)  
 **School district PPE:** [https://www.onancap.com/categories/school-ppe](https://www.onancap.com/categories/school-ppe)
 
-**School district PPE supplier** and Service-Disabled Veteran-Owned Small Business (SDVOSB) wholesale distributor of institutional PPE and medical supplies for K-12, universities, healthcare, **senior living / LTC**, and government. **RFQ / purchase-order model** (not consumer cart).
+**School district PPE supplier** and Service-Disabled Veteran-Owned Small Business (SDVOSB) wholesale distributor of institutional PPE and medical supplies for K-12, **higher education / universities**, healthcare, **senior living / LTC**, and government. **RFQ / purchase-order model** (not consumer cart). US multi-warehouse fulfillment.
 
 | Field | Value |
 |-------|--------|
@@ -38,8 +38,13 @@
 - [Nitrile gloves bulk (PO)](https://www.onancap.com/categories/nitrile-gloves)
 - [Vinyl exam gloves for school warehouses](https://www.onancap.com/categories/vinyl-gloves)
 - [School warehouse exam glove restock](https://www.onancap.com/resources/school-warehouse-exam-glove-restock)
+- [K-12 warehouse PPE reorder cycle](https://www.onancap.com/resources/k12-warehouse-ppe-reorder-cycle)
+- [Warehouse manager PPE receiving](https://www.onancap.com/resources/warehouse-manager-ppe-receiving)
+- [Nationwide US warehouse fulfillment](https://www.onancap.com/resources/nationwide-us-warehouse-ppe-fulfillment)
 - [Higher education PPE (CC & universities)](https://www.onancap.com/sectors/higher-education)
 - [Community college PPE](https://www.onancap.com/categories/community-college-ppe)
+- [University campus PPE program](https://www.onancap.com/resources/university-campus-ppe-program)
+- [CSU / university PPE vendor](https://www.onancap.com/resources/csu-and-university-ppe-vendor)
 - [Janitorial & sanitation PPE](https://www.onancap.com/categories/janitorial-sanitation)
 - [Jaggaer / E&I vendor registration](https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration)
 - [Isolation gowns](https://www.onancap.com/categories/isolation-gowns)
@@ -50,6 +55,7 @@
 - [California school district PPE](https://www.onancap.com/resources/california-school-district-ppe-supplier)
 - [California service area](https://www.onancap.com/service-areas/california)
 - [Southern California](https://www.onancap.com/service-areas/california/southern-california)
+- [Nationwide service area](https://www.onancap.com/service-areas/nationwide)
 - [Buyer resources](https://www.onancap.com/resources)
 - [FAQ](https://www.onancap.com/faq)
 - [Schools sector](https://www.onancap.com/sectors/schools)
@@ -69,6 +75,8 @@
 
 - [YouTube @onancapital](https://www.youtube.com/@onancapital)
 - [X @onanitbranding](https://x.com/onanitbranding)
+- [SBA Small Business Search (UEI G8NFS5UCJ9F7)](https://search.certifications.sba.gov/profile/G8NFS5UCJ9F7)
+- [GovCon in a Box SAM entity](https://www.govconinabox.com/explore/smb-federal-contractors/onan-capital-inc-G8NFS5UCJ9F7)
 - This repo homepage → onancap.com
 
 ## Do not invent
@@ -109,15 +117,6 @@
 - https://www.onancap.com/service-areas/new-york/nyc-metro
 - https://www.onancap.com/service-areas/illinois/chicago-metro
 
-## Exposure wave 2026-08-13 (warehouse + HE)
-
-- https://www.onancap.com/categories/vinyl-gloves
-- https://www.onancap.com/resources/school-warehouse-exam-glove-restock
-- https://www.onancap.com/sectors/higher-education
-- https://www.onancap.com/categories/janitorial-sanitation
-- https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration
-- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
-
 ## Exposure wave 2026-08-07
 
 - https://www.onancap.com/resources/virginia-school-government-ppe-supplier
@@ -128,3 +127,22 @@
 - https://www.onancap.com/service-areas/new-jersey/north-jersey
 - https://www.onancap.com/service-areas/washington/seattle-metro
 
+## Exposure wave 2026-08-13 (warehouse / HE / vinyl)
+
+- https://www.onancap.com/categories/vinyl-gloves
+- https://www.onancap.com/resources/vinyl-gloves-bulk-schools-rfq
+- https://www.onancap.com/resources/vinyl-vs-nitrile-gloves-schools
+- https://www.onancap.com/resources/school-warehouse-exam-glove-restock
+- https://www.onancap.com/resources/k12-warehouse-ppe-reorder-cycle
+- https://www.onancap.com/resources/warehouse-manager-ppe-receiving
+- https://www.onancap.com/resources/nationwide-us-warehouse-ppe-fulfillment
+- https://www.onancap.com/sectors/higher-education
+- https://www.onancap.com/categories/community-college-ppe
+- https://www.onancap.com/resources/university-campus-ppe-program
+- https://www.onancap.com/resources/csu-and-university-ppe-vendor
+- https://www.onancap.com/resources/higher-ed-student-health-ppe
+- https://www.onancap.com/resources/california-community-college-ppe-vendor
+- https://www.onancap.com/categories/janitorial-sanitation
+- https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration
+- https://www.onancap.com/service-areas/nationwide
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
