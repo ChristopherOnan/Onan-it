@@ -36,6 +36,12 @@
 - [Category hub](https://www.onancap.com/categories)
 - [School district PPE](https://www.onancap.com/categories/school-ppe)
 - [Nitrile gloves bulk (PO)](https://www.onancap.com/categories/nitrile-gloves)
+- [Vinyl exam gloves for school warehouses](https://www.onancap.com/categories/vinyl-gloves)
+- [School warehouse exam glove restock](https://www.onancap.com/resources/school-warehouse-exam-glove-restock)
+- [Higher education PPE (CC & universities)](https://www.onancap.com/sectors/higher-education)
+- [Community college PPE](https://www.onancap.com/categories/community-college-ppe)
+- [Janitorial & sanitation PPE](https://www.onancap.com/categories/janitorial-sanitation)
+- [Jaggaer / E&I vendor registration](https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration)
 - [Isolation gowns](https://www.onancap.com/categories/isolation-gowns)
 - [Face masks](https://www.onancap.com/categories/face-masks)
 - [School PPE purchase order guide](https://www.onancap.com/resources/school-district-ppe-purchase-order)
@@ -102,6 +108,15 @@
 - https://www.onancap.com/resources/ghx-healthcare-ppe-distributor-rfq
 - https://www.onancap.com/service-areas/new-york/nyc-metro
 - https://www.onancap.com/service-areas/illinois/chicago-metro
+
+## Exposure wave 2026-08-13 (warehouse + HE)
+
+- https://www.onancap.com/categories/vinyl-gloves
+- https://www.onancap.com/resources/school-warehouse-exam-glove-restock
+- https://www.onancap.com/sectors/higher-education
+- https://www.onancap.com/categories/janitorial-sanitation
+- https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
 
 ## Exposure wave 2026-08-07
 
