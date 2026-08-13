@@ -19,6 +19,9 @@
 - [Capability statement](https://www.onancap.com/capability-statement)
 - [School district PPE](https://www.onancap.com/categories/school-ppe)
 - [Bulk nitrile gloves](https://www.onancap.com/categories/nitrile-gloves)
+- [Bulk vinyl gloves](https://www.onancap.com/categories/vinyl-gloves)
+- [Higher education sector](https://www.onancap.com/sectors/higher-education)
+- [Nationwide warehouse fulfillment](https://www.onancap.com/resources/nationwide-us-warehouse-ppe-fulfillment)
 - [Live catalog](https://www.onancap.com/catalog)
 - [Request a quote](https://www.onancap.com/quote)
 - [How to start](https://www.onancap.com/start)
@@ -73,3 +76,13 @@ See also [SITE.md](./SITE.md) for AI/buyer citation table.
 - https://www.onancap.com/service-areas/new-jersey/north-jersey
 - https://www.onancap.com/service-areas/washington/seattle-metro
 
+## Exposure wave 2026-08-13 (warehouse / HE / vinyl)
+
+- https://www.onancap.com/categories/vinyl-gloves
+- https://www.onancap.com/sectors/higher-education
+- https://www.onancap.com/categories/community-college-ppe
+- https://www.onancap.com/resources/nationwide-us-warehouse-ppe-fulfillment
+- https://www.onancap.com/resources/school-warehouse-exam-glove-restock
+- https://www.onancap.com/resources/k12-warehouse-ppe-reorder-cycle
+- https://www.onancap.com/resources/warehouse-manager-ppe-receiving
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
