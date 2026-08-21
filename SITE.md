@@ -32,9 +32,12 @@
 - [Certifications](https://www.onancap.com/certifications)
 - [Live catalog](https://www.onancap.com/catalog)
 - [RFQ / quote](https://www.onancap.com/quote)
+- [School and agency PPE RFQ line](https://www.onancap.com/contact)
+- [School PPE restock kits](https://www.onancap.com/kits)
 - [How to start buying](https://www.onancap.com/start)
 - [Category hub](https://www.onancap.com/categories)
 - [School district PPE](https://www.onancap.com/categories/school-ppe)
+- [Education PPE supplier (K-12)](https://www.onancap.com/sectors/schools)
 - [Nitrile gloves bulk (PO)](https://www.onancap.com/categories/nitrile-gloves)
 - [Vinyl exam gloves for school warehouses](https://www.onancap.com/categories/vinyl-gloves)
 - [School warehouse exam glove restock](https://www.onancap.com/resources/school-warehouse-exam-glove-restock)
@@ -145,4 +148,17 @@
 - https://www.onancap.com/categories/janitorial-sanitation
 - https://www.onancap.com/resources/jaggaer-eandi-ppe-vendor-registration
 - https://www.onancap.com/service-areas/nationwide
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
+
+## Exposure wave 2026-08-20 (RFQ line / kits / education PPE)
+
+- https://www.onancap.com/contact
+- https://www.onancap.com/catalog
+- https://www.onancap.com/kits
+- https://www.onancap.com/kits/nurse-office
+- https://www.onancap.com/kits/classroom-hygiene
+- https://www.onancap.com/kits/custodial-consumables
+- https://www.onancap.com/kits/campus-bundle
+- https://www.onancap.com/sectors/schools
+- https://www.onancap.com/quote
 - Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
