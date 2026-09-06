@@ -37,6 +37,10 @@
 - [K-12 bulk sanitizer RFQ](https://www.onancap.com/resources/hand-sanitizer-bulk-schools-rfq)
 - [School PPE purchase order guide](https://www.onancap.com/resources/school-district-ppe-purchase-order)
 - [How to start buying](https://www.onancap.com/start)
+- [Education PPE RFQ line / contact](https://www.onancap.com/contact)
+- [SDVOSB credentials + NIGP](https://www.onancap.com/certifications)
+- [Institutional masks](https://www.onancap.com/categories/face-masks)
+- [Warehouse / campus respirators](https://www.onancap.com/categories/n95-respirators)
 - [Sitemap](https://www.onancap.com/sitemap.xml)
 
 ## sameAs / presence
