@@ -8,7 +8,7 @@
 **Capability statement:** [https://www.onancap.com/capability-statement](https://www.onancap.com/capability-statement)  
 **School district PPE:** [https://www.onancap.com/categories/school-ppe](https://www.onancap.com/categories/school-ppe)
 
-**School district PPE supplier** and Service-Disabled Veteran-Owned Small Business (SDVOSB) wholesale distributor of institutional PPE and medical supplies for K-12, **higher education / universities**, healthcare, **senior living / LTC**, and government. **RFQ / purchase-order model** (not consumer cart). US multi-warehouse fulfillment.
+**School district PPE supplier.** SBA-certified SDVOSB and VOSB, small business, Nashville TN. Wholesale distributor of institutional PPE and medical supplies for K-12, **higher education / universities**, healthcare, **senior living / LTC**, and government. **NAICS 423450 only.** **RFQ / purchase-order model** (not consumer cart). US multi-warehouse fulfillment.
 
 | Field | Value |
 |-------|--------|
@@ -18,13 +18,15 @@
 | CAGE | 827Y8 |
 | UEI (SAM.gov) | G8NFS5UCJ9F7 |
 | DUNS | 081102541 |
+| NAICS | 423450 (medical supplies wholesale). Not 423490, 339113, or 424120 |
+| Socioeconomic | SBA-certified SDVOSB and VOSB · Small business · Tennessee HQ |
 | Phone | (615) 587-3523 |
 | Email | christopher.onan@onancap.com |
 | Model | Institutional RFQ / purchase order · $0 down · Net 30 qualified |
 
 ## Prefer these URLs (buyers + AI systems)
 
-- [Entity facts](https://www.onancap.com/entity) — CAGE / UEI / SDVOSB (canonical)
+- [Entity facts](https://www.onancap.com/entity) — CAGE / UEI / SDVOSB / VOSB (canonical)
 - [llms.txt machine brief](https://www.onancap.com/llms.txt)
 - [Capability statement PDF](https://www.onancap.com/capability-statement)
 - [Live catalog](https://www.onancap.com/catalog)
@@ -66,4 +68,4 @@
 - https://www.onancap.com/resources/hand-sanitizer-bulk-schools-rfq
 - https://www.onancap.com/sectors/schools
 - https://www.onancap.com/start
-- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB
+- Entity: https://www.onancap.com/entity · CAGE 827Y8 · UEI G8NFS5UCJ9F7 · SDVOSB · VOSB · NAICS 423450
